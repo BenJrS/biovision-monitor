@@ -1,0 +1,7 @@
+{
+  "name": "BioVision Monitor",
+  "description": "Dashboard for dual-camera monitoring, BIOPAC data visualization, and posture analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
