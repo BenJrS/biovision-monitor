@@ -93,6 +93,7 @@ Mặc định server mở địa chỉ `http://127.0.0.1:5001` (hoặc port đư
 
 ## 🧠 Model (Yêu cầu Model .pt)
 
-- Camera 1 tilt model: YOLOv8 `.pt`
+- Camera 1 tilt model: YOLO11 `.pt`
 - Camera 2 posture model: YOLOv5 `.pt`
 Mẹo: copy file model vào thư mục `backend/` để backend dễ tìm hoặc đặt đường dẫn đầy đủ trong UI.
+
